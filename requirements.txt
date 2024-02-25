@@ -4,5 +4,7 @@ pandas
 python-dotenv
 mysql-connector-python
 pymysql
-
+seaborn
 scikit-learn
+catboost
+xgboost
